@@ -23,6 +23,6 @@ status-website:
   introMessage: This is a status page of services from dso.mil
   navbar:
     - title: Status
-      href: /
+      href: https://$OWNER.github.io/$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
