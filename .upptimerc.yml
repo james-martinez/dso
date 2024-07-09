@@ -11,6 +11,9 @@ sites:
     url: https://ironbank.dso.mil
   - name: Registry1
     url: https://registry1.dso.mil
+  - name: Portal
+    url: https://portal.cnap.dso.mil  
+
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +21,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /dso-mil
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime dso.mil
+  name: dso.mil Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page of services from dso.mil
   navbar:
