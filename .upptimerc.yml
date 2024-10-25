@@ -13,10 +13,6 @@ sites:
     url: https://registry1.dso.mil
   - name: Portal
     url: https://portal.cnap.dso.mil
-  - name: Appgate
-    check: "tcp-ping"  
-    url: connect.cnap.dso.mil
-    port: 53  
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
