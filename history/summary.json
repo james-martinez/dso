@@ -260,18 +260,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "appgate",
     "status": "down",
-    "uptime": "81.71%",
-    "uptimeDay": "81.71%",
-    "uptimeWeek": "81.71%",
-    "uptimeMonth": "81.71%",
-    "uptimeYear": "81.71%",
+    "uptime": "68.31%",
+    "uptimeDay": "68.31%",
+    "uptimeWeek": "68.31%",
+    "uptimeMonth": "68.31%",
+    "uptimeYear": "68.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-25": 0
+      "2024-10-25": 1
     }
   }
 ]
