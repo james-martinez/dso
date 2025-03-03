@@ -1,7 +1,7 @@
 url: https://ironbank.dso.mil
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-03T19:40:27.945Z
+status: up
+code: 200
+responseTime: 406
+lastUpdated: 2025-03-03T19:44:51.840Z
 startTime: 2024-03-04T20:27:54.246Z
 generator: Upptime <https://github.com/upptime/upptime>
