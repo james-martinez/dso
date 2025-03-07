@@ -1,7 +1,7 @@
 url: https://portal.cnap.dso.mil
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-07T17:43:56.052Z
+status: up
+code: 200
+responseTime: 1063
+lastUpdated: 2025-03-07T17:47:12.680Z
 startTime: 2024-07-09T20:50:45.248Z
 generator: Upptime <https://github.com/upptime/upptime>
