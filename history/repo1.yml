@@ -1,7 +1,7 @@
 url: https://repo1.dso.mil
-status: down
-code: 500
-responseTime: 303
-lastUpdated: 2025-07-31T23:42:16.351Z
+status: up
+code: 200
+responseTime: 610
+lastUpdated: 2025-07-31T23:50:23.190Z
 startTime: 2024-03-04T20:27:53.404Z
 generator: Upptime <https://github.com/upptime/upptime>
