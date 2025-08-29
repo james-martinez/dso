@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 768,
-    "timeDay": 641,
-    "timeWeek": 733,
-    "timeMonth": 697,
-    "timeYear": 773,
+    "timeDay": 851,
+    "timeWeek": 745,
+    "timeMonth": 710,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2024-12-24": 83
     }
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo1.dso.mil.ico",
     "slug": "repo1",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "97.71%",
-    "uptimeMonth": "99.22%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.53%",
     "time": 628,
-    "timeDay": 479,
-    "timeWeek": 436,
-    "timeMonth": 563,
+    "timeDay": 527,
+    "timeWeek": 445,
+    "timeMonth": 566,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2025-08-28": 15,
       "2025-08-27": 18,
       "2025-08-26": 23,
       "2025-08-25": 19,
@@ -109,8 +108,7 @@
       "2024-09-10": 40,
       "2024-09-09": 3,
       "2024-09-03": 18,
-      "2024-08-30": 56,
-      "2024-08-29": 28
+      "2024-08-30": 56
     }
   },
   {
@@ -120,17 +118,16 @@
     "slug": "ironbank",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.53%",
     "time": 519,
-    "timeDay": 437,
-    "timeWeek": 397,
-    "timeMonth": 452,
+    "timeDay": 373,
+    "timeWeek": 392,
+    "timeMonth": 456,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-08-28": 14,
       "2025-08-27": 17,
       "2025-08-25": 19,
       "2025-08-23": 47,
@@ -197,8 +194,7 @@
       "2024-09-13": 37,
       "2024-09-12": 31,
       "2024-09-03": 18,
-      "2024-08-30": 56,
-      "2024-08-29": 26
+      "2024-08-30": 56
     }
   },
   {
@@ -207,18 +203,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/registry1.dso.mil.ico",
     "slug": "registry1",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.54%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.61%",
-    "time": 413,
-    "timeDay": 300,
-    "timeWeek": 305,
+    "time": 414,
+    "timeDay": 292,
+    "timeWeek": 301,
     "timeMonth": 345,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2025-08-28": 14,
       "2025-08-27": 17,
       "2025-08-25": 19,
       "2025-08-23": 48,
@@ -283,8 +278,7 @@
       "2024-09-13": 36,
       "2024-09-12": 30,
       "2024-09-03": 17,
-      "2024-08-30": 56,
-      "2024-08-29": 26
+      "2024-08-30": 56
     }
   },
   {
@@ -294,17 +288,16 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.63%",
     "time": 928,
-    "timeDay": 963,
-    "timeWeek": 854,
-    "timeMonth": 880,
-    "timeYear": 924,
+    "timeDay": 987,
+    "timeWeek": 869,
+    "timeMonth": 892,
+    "timeYear": 919,
     "dailyMinutesDown": {
-      "2025-08-28": 13,
       "2025-08-27": 16,
       "2025-08-25": 18,
       "2025-08-23": 48,
@@ -368,8 +361,7 @@
       "2024-09-24": 16,
       "2024-09-13": 20,
       "2024-09-12": 30,
-      "2024-09-03": 17,
-      "2024-08-29": 19
+      "2024-09-03": 17
     }
   }
 ]
