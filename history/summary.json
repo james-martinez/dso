@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 775,
-    "timeDay": 721,
-    "timeWeek": 545,
-    "timeMonth": 697,
+    "time": 776,
+    "timeDay": 517,
+    "timeWeek": 551,
+    "timeMonth": 689,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2024-12-24": 83
@@ -26,17 +26,16 @@
     "slug": "repo1",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.57%",
-    "time": 627,
-    "timeDay": 524,
-    "timeWeek": 461,
-    "timeMonth": 529,
+    "time": 626,
+    "timeDay": 401,
+    "timeWeek": 452,
+    "timeMonth": 525,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2025-11-23": 14,
       "2025-11-18": 85,
       "2025-11-14": 19,
       "2025-11-11": 22,
@@ -100,8 +99,7 @@
       "2024-12-04": 93,
       "2024-11-28": 107,
       "2024-11-26": 69,
-      "2024-11-25": 20,
-      "2024-11-24": 24
+      "2024-11-25": 20
     }
   },
   {
@@ -111,17 +109,16 @@
     "slug": "ironbank",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.58%",
     "time": 497,
-    "timeDay": 482,
-    "timeWeek": 412,
-    "timeMonth": 434,
+    "timeDay": 348,
+    "timeWeek": 407,
+    "timeMonth": 414,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2025-11-23": 14,
       "2025-11-18": 85,
       "2025-11-14": 19,
       "2025-11-11": 21,
@@ -180,8 +177,7 @@
       "2024-12-04": 92,
       "2024-11-28": 107,
       "2024-11-26": 69,
-      "2024-11-25": 19,
-      "2024-11-24": 23
+      "2024-11-25": 19
     }
   },
   {
@@ -191,17 +187,16 @@
     "slug": "registry1",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.66%",
     "time": 398,
-    "timeDay": 310,
+    "timeDay": 275,
     "timeWeek": 462,
-    "timeMonth": 333,
+    "timeMonth": 331,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-11-23": 13,
       "2025-11-18": 84,
       "2025-11-14": 18,
       "2025-11-11": 21,
@@ -256,8 +251,7 @@
       "2024-12-04": 92,
       "2024-11-28": 105,
       "2024-11-26": 69,
-      "2024-11-25": 18,
-      "2024-11-24": 23
+      "2024-11-25": 18
     }
   },
   {
@@ -267,17 +261,16 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.54%",
-    "time": 889,
-    "timeDay": 1043,
-    "timeWeek": 833,
-    "timeMonth": 772,
+    "time": 890,
+    "timeDay": 924,
+    "timeWeek": 836,
+    "timeMonth": 768,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2025-11-23": 13,
       "2025-11-18": 84,
       "2025-11-14": 18,
       "2025-11-11": 20,
@@ -341,8 +334,7 @@
       "2024-12-04": 91,
       "2024-11-28": 105,
       "2024-11-26": 69,
-      "2024-11-25": 18,
-      "2024-11-24": 22
+      "2024-11-25": 18
     }
   }
 ]
