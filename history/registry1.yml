@@ -1,7 +1,7 @@
 url: https://registry1.dso.mil
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-05T19:47:44.315Z
+status: up
+code: 200
+responseTime: 259
+lastUpdated: 2026-01-05T19:51:39.637Z
 startTime: 2024-03-04T20:37:26.288Z
 generator: Upptime <https://github.com/upptime/upptime>
