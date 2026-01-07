@@ -4,19 +4,19 @@
     "url": "https://login.dso.mil",
     "icon": "https://icons.duckduckgo.com/ip3/login.dso.mil.ico",
     "slug": "login",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 812,
-    "timeDay": 8612,
-    "timeWeek": 2654,
-    "timeMonth": 1215,
-    "timeYear": 835,
+    "timeDay": 5859,
+    "timeWeek": 2399,
+    "timeMonth": 1189,
+    "timeYear": 834,
     "dailyMinutesDown": {
-      "2026-01-07": 0
+      "2026-01-07": 5
     }
   },
   {
