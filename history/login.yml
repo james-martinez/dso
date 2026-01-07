@@ -1,7 +1,7 @@
 url: https://login.dso.mil
-status: down
-code: 500
-responseTime: 16816
-lastUpdated: 2026-01-07T23:46:36.832Z
+status: up
+code: 200
+responseTime: 355
+lastUpdated: 2026-01-07T23:51:20.940Z
 startTime: 2024-03-04T20:37:23.419Z
 generator: Upptime <https://github.com/upptime/upptime>
