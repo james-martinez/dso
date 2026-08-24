@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 945,
-    "timeDay": 929,
-    "timeWeek": 1373,
-    "timeMonth": 1121,
-    "timeYear": 1016,
+    "timeDay": 821,
+    "timeWeek": 1299,
+    "timeMonth": 1108,
+    "timeYear": 1017,
     "dailyMinutesDown": {
       "2026-01-26": 70
     }
@@ -29,12 +29,12 @@
     "uptimeDay": "98.94%",
     "uptimeWeek": "96.51%",
     "uptimeMonth": "98.47%",
-    "uptimeYear": "99.49%",
-    "time": 640,
-    "timeDay": 1159,
-    "timeWeek": 1344,
-    "timeMonth": 939,
-    "timeYear": 600,
+    "uptimeYear": "99.51%",
+    "time": 641,
+    "timeDay": 1434,
+    "timeWeek": 1371,
+    "timeMonth": 952,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-26": 23,
@@ -102,15 +102,15 @@
     "slug": "ironbank",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "98.80%",
     "time": 613,
-    "timeDay": 684,
-    "timeWeek": 695,
-    "timeMonth": 1247,
-    "timeYear": 647,
+    "timeDay": 745,
+    "timeWeek": 677,
+    "timeMonth": 1242,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2025-08-25": 19,
       "2025-08-27": 17,
@@ -161,8 +161,7 @@
       "2026-07-25": 193,
       "2026-08-07": 68,
       "2026-08-16": 28,
-      "2026-08-18": 22,
-      "2026-08-23": 10
+      "2026-08-18": 22
     }
   },
   {
@@ -172,14 +171,14 @@
     "slug": "registry1",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "98.82%",
-    "time": 387,
-    "timeDay": 364,
-    "timeWeek": 301,
-    "timeMonth": 280,
+    "time": 370,
+    "timeDay": 301,
+    "timeWeek": 305,
+    "timeMonth": 281,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2025-08-25": 19,
@@ -227,8 +226,7 @@
       "2026-07-25": 188,
       "2026-08-07": 64,
       "2026-08-16": 24,
-      "2026-08-18": 17,
-      "2026-08-23": 6
+      "2026-08-18": 17
     }
   },
   {
@@ -238,15 +236,15 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "98.59%",
     "time": 848,
-    "timeDay": 707,
-    "timeWeek": 737,
-    "timeMonth": 773,
-    "timeYear": 837,
+    "timeDay": 666,
+    "timeWeek": 701,
+    "timeMonth": 767,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2025-08-25": 18,
       "2025-08-27": 16,
@@ -305,8 +303,7 @@
       "2026-07-17": 118,
       "2026-07-25": 183,
       "2026-08-07": 59,
-      "2026-08-16": 19,
-      "2026-08-23": 1
+      "2026-08-16": 19
     }
   }
 ]
